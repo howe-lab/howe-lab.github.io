@@ -1,15 +1,19 @@
 ---
 layout: article
-title: ""
+title: "Publications"
 date: 
 modified:
 excerpt:
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 ads: false
 share: false
 ---
+![sample image](https://raw.githubusercontent.com/howe-lab/howe-lab.github.io/master/images/wordcloud.jpg)
 
-here we'll have something about linking to pubs
+Google Scholar Link Here
+
+### _List of Publications Here_
+

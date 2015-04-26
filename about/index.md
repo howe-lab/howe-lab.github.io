@@ -12,4 +12,4 @@ ads: false
 share: false
 ---
 
-this is the page about the group - in construction
+About our lab.
