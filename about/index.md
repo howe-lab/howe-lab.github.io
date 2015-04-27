@@ -12,4 +12,4 @@ ads: false
 share: false
 ---
 
-About our lab.
+This is the webpage of Michael Howe and is in construction.
